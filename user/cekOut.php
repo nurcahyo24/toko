@@ -24,6 +24,12 @@ require 'templates/header.php';
         <li class="list-group-item">
             <h6>Total Harga</h6><span>Rp<?= number_format($subtotal, 0) ?></span>
         </li>
+
+        <li class="list-group-item">
+            <h6>Transfer ke <b> BCA a.n Admin123 </b></h6>
+            <p>No Rek: 33012453493</p>
+            <hr>
+        </li>
     </ul>
 </div>
 <div class="row mt-2">
