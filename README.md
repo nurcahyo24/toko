@@ -1,3 +1,3 @@
 # toko
 
-<a href="https://www.papandayancargo.com/"> test </a>  
+<a href="https://www.papandayancargo.com/" target="_blank"> test </a>  
